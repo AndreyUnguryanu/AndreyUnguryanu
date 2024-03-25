@@ -13,7 +13,7 @@
 ## Statistics:
 |                                                                                                                                         |                                                                                                                           |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StasTkachenko3&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StasTkachenko3&show_icons=true&theme=cobalt&layout=compact) |
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreyUnguryanu&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyUnguryanu&show_icons=true&theme=cobalt&layout=compact) |
 
 ## Hard Skills
 🔧 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
